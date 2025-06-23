@@ -85,7 +85,7 @@ POST http://localhost:3000/upload-product-image
 3. Go to the **Body** tab → **form-data**.
 4. Add a key:
 
-   * **Key**: `productImage`
+   * **Key**: `image`
    * **Type**: `File`
    * **Value**: Choose an image file from your system.
 5. Hit **Send**.
